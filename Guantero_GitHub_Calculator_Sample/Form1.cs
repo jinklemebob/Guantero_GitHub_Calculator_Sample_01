@@ -26,5 +26,10 @@ namespace Guantero_GitHub_Calculator_Sample
         {
 
         }
+
+        private void textBox2_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
